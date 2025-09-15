@@ -19,6 +19,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
+    "dotenv": "^17.2.2",
     "firebase": "^11.6.0",
     "firebase-admin": "^13.2.0",
     "html2canvas": "^1.4.1",
@@ -48,6 +49,6 @@
     "eslint": "^9",
     "eslint-config-next": "15.2.4",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "5.9.2"
   }
 }
